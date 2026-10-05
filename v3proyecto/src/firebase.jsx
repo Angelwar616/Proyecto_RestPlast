@@ -6,7 +6,14 @@ import { getStorage } from "firebase/storage"; // Importa getStorage
 
 // Configuración de Firebase
 const firebaseConfig = {
-
+apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Inicializar Firebase
