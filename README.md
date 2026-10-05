@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Plastic recycling via pyrolysis requires strict thermal regulation, continuous safety monitoring, and precise mass yield calculation. **ResPlast** integrates an embedded hardware control circuit with a modern web dashboard built with **React (Vite)**, using a hybrid data architecture (**MySQL** for structured local telemetry logging and **Firebase** for realtime synchronization and authentication).
 
@@ -18,7 +18,7 @@ The system automates chamber temperature management, continuously checks safety 
 
 ---
 
-## 🛠 Tech Stack & Hardware Architecture
+## Tech Stack & Hardware Architecture
 
 ### **Hardware & Embedded Subsystem**
 * **Microcontroller:** Arduino MCU (C/C++)
