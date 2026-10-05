@@ -85,9 +85,12 @@ The system automates chamber temperature management, continuously checks safety 
 * **Firebase Project:** Configured with Authentication and Realtime Database/Firestore.
 * **Arduino IDE:** `>= v2.0` with required hardware libraries.
 
-### Quick Start
+Author
+Alexander Aaron Molina Serrano
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/tu-usuario/resplast.git](https://github.com/tu-usuario/resplast.git)
-   cd resplast
+Systems Engineer | Full-Stack & Embedded Systems Developer
+
+LinkedIn: https://www.linkedin.com/in/alexander-aaron-molina-serrano-b70a07207/
+
+GitHub: https://github.com/Angelwar616
+
